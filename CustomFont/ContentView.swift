@@ -18,7 +18,18 @@ struct ContentView: View {
                 
                 Text("Proin ut est lorem. Nam quis justo a sem finibus tempus. Morbi molestie sem rhoncus ex euismod eleifend. Proin placerat sit amet felis non lobortis. Nunc varius augue justo, eu ultrices nisl viverra vitae. Fusce quis accumsan turpis. Praesent id nisi et nisl pretium laoreet. Vivamus auctor convallis mi non sagittis.")
                     .font(.custom("DancingScript-Regular", size: 17))
+                
+                
+                Text("Permanet Marker Font")
+                    .font(.custom("PermanentMarker-Regular", size: 30))
+                Text("Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce quis elit fermentum, pulvinar tellus eu, placerat dolor.")
+                    .font(.custom("PermanentMarker-Regular", size: 17))
+                
+                Text("Proin ut est lorem. Nam quis justo a sem finibus tempus. Morbi molestie sem rhoncus ex euismod eleifend. Proin placerat sit amet felis non lobortis. Nunc varius augue justo, eu ultrices nisl viverra vitae. Fusce quis accumsan turpis. Praesent id nisi et nisl pretium laoreet. Vivamus auctor convallis mi non sagittis.")
+                    .font(.custom("PermanentMarker-Regular", size: 17))
+
             }
+            
 
         }
         .padding()

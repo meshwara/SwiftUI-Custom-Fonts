@@ -5,6 +5,7 @@
 	<key>UIAppFonts</key>
 	<array>
 		<string>DancingScript.ttf</string>
+		<string>PermanentMarker.ttf</string>
 	</array>
 </dict>
 </plist>
